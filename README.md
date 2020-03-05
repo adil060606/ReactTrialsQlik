@@ -1,2 +1,0 @@
-# ReactTrialsQlik
-Created with CodeSandbox
